@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction using Machine Learning
 
-This project predicts house prices using the **Kaggle – House Prices: Advanced Regression Techniques** dataset. It focuses on building a **clean, end-to-end machine learning pipeline** and evaluating model performance using **Root Mean Squared Error (RMSE)**, a standard regression metric.
+This project task 1 orphion tech predicts house prices using the **Kaggle – House Prices: Advanced Regression Techniques** dataset. It focuses on building a **clean, end-to-end machine learning pipeline** and evaluating model performance using **Root Mean Squared Error (RMSE)**, a standard regression metric.
 
 
 ## 🎯 Project Objective
